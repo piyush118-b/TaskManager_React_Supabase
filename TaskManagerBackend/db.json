@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "68fd4565-c35d-419a-8186-f1b49999b5d0",
+      "title": "AIML",
+      "description": "Learn AIML",
+      "deadline": "2025-06-25",
+      "priority": 1,
+      "type": "Work",
+      "isCompleted": false
+    },
+    {
+      "id": "0b9d10da-3bb1-40c2-93b3-8f593de6eff6",
+      "title": "DSA",
+      "description": "learning dsa",
+      "deadline": "2025-06-19",
+      "priority": 1,
+      "type": "Work",
+      "isCompleted": false
+    }
+  ]
+}

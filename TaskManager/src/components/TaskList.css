@@ -1,0 +1,35 @@
+.task-list {
+  margin-top: 2rem;
+  display: grid;
+  gap: 1.5rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.task-card {
+  background: #f9f9f9;
+  padding: 1.5rem;
+  border-left: 6px solid #007bff;
+  border-radius: 10px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.task-card h3 {
+  margin-bottom: 0.5rem;
+}
+.no-tasks {
+  text-align: center;
+  color: #888;
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin-top: 2rem;
+  padding: 1rem;
+  background-color: #f9f9f9;
+  border: 2px dashed #ccc;
+  border-radius: 8px;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  transition: all 0.3s ease-in-out;
+}
